@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.hero {
+    background-color: lightblue;
+    padding: 100px;
+    text-align: center;
+}
+
+.tentang {
+    padding: 40px;
+    text-align: center;
+}
+
+.jurusan {
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
